@@ -1,2 +1,2 @@
-# BlackJack
-BlackJack Card game
+# BlackJack  
+BlackJack Card game written in python
